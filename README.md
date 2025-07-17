@@ -30,8 +30,15 @@ https://whatsapp-chat-analyzer-12.streamlit.app/
 
 ## Screenshots
 
-> Screenshots will be uploaded here to showcase the app interface and features.
-
+<p align="center">
+  <img src="screenshots/pic1.png" alt="Dashboard Overview" width="600"/>
+  <br>
+  <img src="screenshots/pic2.png" alt="Statistics and Sentiment" width="600"/>
+  <br>
+  <img src="screenshots/pic3.png" alt="Word Cloud and Activity" width="600"/>
+  <br>
+  <img src="screenshots/pic4.png" alt="Emoji and Timeline" width="600"/>
+</p>
 ## Getting Started
 
 ### Prerequisites
