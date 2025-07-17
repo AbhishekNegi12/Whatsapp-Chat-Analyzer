@@ -26,7 +26,7 @@ A Streamlit web application to analyze WhatsApp chat exports. Gain insights into
 
 ## Live Demo
 
-https://whatsapp-chat-analyzer-12.streamlit.app/
+https://whatsapp-chat-analyzer-12.streamlit.app
 
 ## Screenshots
 
