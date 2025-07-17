@@ -26,7 +26,7 @@ A Streamlit web application to analyze WhatsApp chat exports. Gain insights into
 
 ## Live Demo
 
-> The live demo will be available soon. Stay tuned!
+https://whatsapp-chat-analyzer-12.streamlit.app/
 
 ## Screenshots
 
@@ -41,7 +41,7 @@ A Streamlit web application to analyze WhatsApp chat exports. Gain insights into
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/whatsapp-chat-analyzer.git
+   git clone https://github.com/AbhishekNegi12/Whatsapp-Chat-Analyzer.git
    cd whatsapp-chat-analyzer
    ```
 2. Install dependencies:
